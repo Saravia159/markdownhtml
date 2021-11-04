@@ -10,7 +10,7 @@ As a beginner markdown user, I want to create a user-story, so that I can become
 
 1. As a user, I can click on a thumbs up so other users can see how many people like a user's post.
 
-2.   As a user, I click on "User Settings" so that the user change any setting to their individual profile at free will.
+2.   As a user, I click on "User Settings" so that the user can change any settings to their individual profile at free will.
 
 ---
 
